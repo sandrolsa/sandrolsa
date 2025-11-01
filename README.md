@@ -1,7 +1,6 @@
 # 💫 About Me:
 💻 Automação & Desenvolvimento: tarefas repetitivas, Scripts + MySQL, desktop/mobile (.NET C#, MAUI, VB)<br>👥 Colaboração: ferramentas open-source e scripts comunitários<br>📚 Aprendizado: SQL avançado, automação Windows/Linux, desenvolvimento cross-platform<br>💬 Fale sobre: C#, WinForms/WPF, MySQL e automação de processos<br>🚀 Curiosidade: transformar processos complexos em scripts ou apps simples, conectando sistemas de forma criativa
 
-
 <br clear="both">
 
 <h1 align="left">Hello World 👋 I`m Sandro Luiz!</h1>
