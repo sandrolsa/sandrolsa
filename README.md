@@ -1,4 +1,4 @@
-<h1 align="center">Hello World!👋 I'm a Sandro Luiz</h1>
+<h1 align="center">Hello World!👋 I'm Sandro Luiz</h1>
 
 ### 💫 About Me:
 💻 Desenvolvimento: automação de tarefas, scripts, MySql, desktop/mobile (.NET C#, MAUI, VB)<br>👥 Colaboração: ferramentas open-source e scripts comunitários<br>📚 Aprendizado: C# em WinForms, WPF em net MAUI, desenvolvimento cross-platform<br>💬 Fale sobre: C#, WinForms/WPF, MySQL e automação de processos<br>🚀 Curiosidade: transformar processos complexos em scripts ou apps simples, conectando sistemas de forma criativa
